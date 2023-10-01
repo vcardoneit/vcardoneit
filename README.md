@@ -2,10 +2,6 @@
 <h3 align="center">A computer science student from Italy!</h3>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on [Flurga](https://github.com/vcardoneit/flurga)
-
-- 🌱 I’m currently learning **AWS Solutions Architect**
-
 - 📫 How to reach me **info@vcardone.it**
 
 ## 🌐 Socials:
